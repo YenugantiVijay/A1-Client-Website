@@ -1,4 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
-  <rect width="48" height="48" rx="24" fill="#185747"/>
-  <text x="24" y="31" fill="#fffefa" font-family="Georgia,serif" font-size="21" font-weight="700" text-anchor="middle">A1</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="2" y="2" width="60" height="60" rx="18" fill="#103e35"/>
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="none" stroke="#e3aa42" stroke-width="2"/>
+  <text x="32" y="32" fill="#fffefa" font-family="Georgia,serif" font-size="27" font-weight="700" text-anchor="middle">A1</text>
+  <path d="M15 42c6-2 12-1 17 3 5-4 11-5 17-3v9c-6-2-12-1-17 3-5-4-11-5-17-3z" fill="#e3aa42"/>
+  <path d="M32 45v8" fill="none" stroke="#103e35" stroke-width="1.5"/>
 </svg>
